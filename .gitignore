@@ -1,0 +1,24 @@
+# System files
+**/.DS_Store
+
+# Data
+data/*
+
+# Models
+model/*
+
+# Log
+log/*
+
+# Pycharm files
+**/__pycache__/
+**/.idea/
+
+# Jupyter files
+**/.ipynb_checkpoints/
+
+#virtual env
+.env
+
+#gitkeep
+!**/*.gitkeep
