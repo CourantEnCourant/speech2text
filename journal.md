@@ -1,5 +1,5 @@
 # 21/01/25
-- Model choice: [wav2vic2-base](https://huggingface.co/facebook/wav2vec2-base)
+- Model choice: [wav2vec2-base](https://huggingface.co/facebook/wav2vec2-base)
 - Dataset choice : English, Chinese and Japanses in [common voice](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0)
 
 
