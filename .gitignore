@@ -7,6 +7,8 @@ tutorials/
 data/**
 models/**
 
+# Test files
+**/scripts/test/
 
 #
 !**/.gitkeep
