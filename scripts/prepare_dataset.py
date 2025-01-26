@@ -59,7 +59,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('language',
                         type=str,
-                        choices=['fr', 'ja', 'zh'],
                         help="Subsection for a specific language")
     parser.add_argument('-count',
                         type=int,
