@@ -1,5 +1,12 @@
 # Mac file
-**/.idea/
+**/.DS_Store
+**/.idea/**
 
-# Personal file
+# Big project files
 tutorials/
+data/**
+models/**
+
+
+#
+!**/.gitkeep
