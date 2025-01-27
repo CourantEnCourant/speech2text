@@ -10,7 +10,7 @@
 
 ## Préparation des corpora
 * Lancer `python prepare_dataset.py [code de langue comme fr/zh-CN/ja]` pour générer un corpus, qui est une sous-section de [common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0)
-* Nous avons réussi à gérer 3 corpus
+* Nous avons réussi à générer 3 corpus
 
 ## Choix du model
 * Voir `test_model.ipybn`, où nous avons réussi de faire tourner le model sur une phrase en chinois
