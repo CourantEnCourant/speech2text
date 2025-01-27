@@ -12,3 +12,10 @@ models/**
 
 #
 !**/.gitkeep
+
+
+# Tmp setting
+.asr_venv/
+logs/**
+**/.ipynb_checkpoints/
+
